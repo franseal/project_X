@@ -188,5 +188,5 @@ for i in range(len(res3)):
 ```  
 このセルを実行すると川柳が生成されます。
 
-- 参考にしました
-    - さだまさし川柳の自動生成(https://qiita.com/haminiku/items/c87c646758c6de3029b5)
+# 参考にしました
+ - さだまさし川柳の自動生成(https://qiita.com/haminiku/items/c87c646758c6de3029b5)
